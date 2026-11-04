@@ -88,6 +88,12 @@ body {
   object-fit: cover;
   border-radius: 0.8rem;
 }
+.card-img-small {
+  width: 65%;
+  height: 25%;
+  object-fit: cover;
+  border-radius: 0.8rem;
+}
 .meme-price {
   margin: 0;
 }
