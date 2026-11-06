@@ -36,13 +36,12 @@ body {
   padding: 2rem;
 }
 .hero h1 {
-
   font-size: 8rem;
   margin-bottom: 2rem;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 .hero h2 {
-    font-family: "BBH Bartle", sans-serif;
+  font-family: "BBH Bartle", sans-serif;
   font-size: 5rem;
   margin-bottom: 2rem;
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
@@ -129,6 +128,6 @@ body {
 }
 
 .card li {
-  font-size: 1.6rem; 
+  font-size: 1.6rem;
   margin-bottom: 1rem;
 }
